@@ -8,6 +8,3 @@ Key Features: 1. It contains multiple CSS Animations.
               3. Drop-down list is used.
 
 Technologies Used: HTML , CSS, JavaScript,Tailwind CSS
-
-
-Optional: A link to a live demo or screenshots. This helps a lot
